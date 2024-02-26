@@ -2,6 +2,7 @@
 
 ### Description
 This is a Yandex.Practicum Yatube learning project.
+(added several tweaks, hid sensetive line in settings and spiced it up with the dark theme)
 
 Made with latest Django 5.0.2 and Python 3.11.7
 
